@@ -141,7 +141,6 @@ a:visited{
 .carouselTitle{
     color:white;
     position:relative;
-    left:-100px;
     top:-10px;
     font-family: 'Montserrat', sans-serif;
 }
