@@ -121,7 +121,7 @@ a:visited{
 }
 
 .carouselItem>img{
-    max-height: 80%;
+    max-height: 65%;
     max-width: 100%;
 }
 
