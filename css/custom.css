@@ -159,11 +159,15 @@ a:visited{
 }
 
 .behance-icon{
-
+margin-right: 3px;
 }
 
 .facebook-icon{
 height: 26px;
+}
+
+.vimeo-icon{
+    height: 30px;
 }
 
 .deviantArt-icon{
@@ -190,6 +194,10 @@ height: 26px;
 .3d-menu{
     position:absolute;
     left:55px !important;
+}
+
+.twoD-menu{
+    position: absolute;
 }
 
 .about{
